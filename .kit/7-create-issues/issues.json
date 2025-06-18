@@ -309,8 +309,8 @@
     ]
   },
   {
-    "title": "Fix typo in \"initializtion\"",
-    "body": "In the paragraph in the \"drush\" section of the `ONBOARDING.md` file, the word \"initialization\" is misspelled as \"initializtion\" and should be corrected.",
+    "title": "Fix typo in \"initialization\"",
+    "body": "In the paragraph in the \"drush\" section of the `ONBOARDING.md` file, the word \"initialization\" is misspelled as \"initialization\" and should be corrected.",
     "labels": [
       "documentation",
       "Typos",
